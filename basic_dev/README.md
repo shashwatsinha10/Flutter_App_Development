@@ -10,7 +10,5 @@
 
 ![Flowchart](flowchart.png)
 
-- **App Snap:**
-![AppSnap](app_snap.PNG)
 
 
